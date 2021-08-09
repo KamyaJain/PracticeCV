@@ -1,0 +1,125 @@
+body{
+    background-color: silver;
+    margin: 0;
+    font-family: 'Merriweather', serif;
+    text-align: center;
+}
+
+h1{
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5rem;
+    color: rgb(49, 43, 43);
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    color: rgb(49, 43, 43);
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(83, 79, 79);
+}
+
+.top-container{
+    padding-top: 140px;
+    position: relative;
+    background-color: gray;
+}
+
+.topcloud{
+    position: absolute;
+    right: 430px;
+    top: 60px;
+
+}
+
+.bottomcloud{
+    position: absolute;
+    left: 300px;
+}
+
+a{
+    color: black;
+}
+
+.head{
+    font-weight: normal;
+    line-height: 1;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 105px auto;
+    text-align: left;
+    line-height: 2.5;
+}
+
+.code{
+    width: 25%;
+    float: left;
+    padding: 30px;
+}
+
+.paint{
+    width: 25%;
+    float: right;
+    padding: 30px;
+    
+}
+
+.pro{
+    margin-top: 20px;
+    width: 20%;
+    height: 5%;
+}
+
+hr{
+    border-style: dotted none none;
+    width: 3%;
+    border-width: 6px;
+    color: rgb(65, 65, 65);
+    margin: 50px auto;
+}
+
+.profile-text{
+    width: 35%;
+    margin: auto;
+}
+
+.contact-me{
+    width: 40%;
+    margin: auto;
+    line-height: 2.5;
+}
+
+.para{
+    line-height: 2;
+}
+
+.btn{
+    margin: 20px auto 40px auto;
+    background-color: rgb(65, 65, 65);
+    border: none;
+    color: white;
+    padding: 5px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 10px;
+}
+
+.bottom-container{
+    background-color: gray;
+    line-height: 3;
+    height: 200px;
+}
+
+.footer-link{
+      padding: 30px;
+      text-decoration: none;
+}
+
